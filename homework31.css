@@ -1,0 +1,10 @@
+body {
+    background-image: url(HEADER.png);
+    background-size: cover;
+}
+
+.div1 {
+    padding-top: 40px;
+    padding-left: 150px;
+    color: white;
+}
